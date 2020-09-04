@@ -9,3 +9,5 @@ export const Logout = () => {
         </form>
     )
 };
+
+// logout button added to check for authentication functionality
